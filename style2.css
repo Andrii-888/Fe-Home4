@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+div {
+  width: 60px;
+  height: 60px;
+  margin: 25px;
+}
+.Square1 {
+  border: 1px solid black;
+  margin: 75px;
+  position: relative;
+}
+.Square2 {
+  border: 1px solid rgb(186, 30, 30);
+  position: relative;
+  left: 150px;
+  bottom: 135px;
+}
+.Square3 {
+  border: 1px solid green;
+  position: relative;
+  left: 250px;
+  bottom: 220px;
+}

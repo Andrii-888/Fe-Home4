@@ -1,0 +1,47 @@
+* {
+  margin: auto;
+  padding: 5px;
+}
+.circle {
+  position: relative;
+  width: 650px;
+  height: 650px;
+  margin: auto;
+  background-color: green;
+  border-radius: 330px;
+}
+.circle1 {
+  position: absolute;
+  background-color: blanchedalmond;
+  width: 120px;
+  height: 120px;
+  right: 120px;
+  top: 80px;
+  border-radius: 75px;
+}
+.circle2 {
+  position: absolute;
+  background-color: blanchedalmond;
+  width: 120px;
+  height: 120px;
+  left: 120px;
+  top: 80px;
+  border-radius: 75px;
+}
+.nose {
+  position: absolute;
+  background-color: blanchedalmond;
+  width: 90px;
+  height: 90px;
+  left: 280px;
+  top: 300px;
+}
+.mouth {
+  position: absolute;
+  background-color: blanchedalmond;
+  width: 350px;
+  height: 25px;
+  left: 135px;
+  top: 500px;
+  border-radius: 50%;
+}

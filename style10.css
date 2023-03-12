@@ -1,0 +1,43 @@
+* {
+  margin: 5px;
+  padding: 0;
+  box-sizing: border-box;
+}
+.traffic {
+  width: 200px;
+  height: 400px;
+  border: 1px solid black;
+  margin: auto;
+}
+.traffic1 {
+  width: 75px;
+  height: 75px;
+  background-color: red;
+  border-radius: 50%;
+  top: 25px;
+  margin: auto;
+  padding: 50px;
+  position: relative;
+}
+.traffic2 {
+  width: 75px;
+  height: 75px;
+  background-color: yellow;
+  border-radius: 50%;
+  top: 58px;
+  right: 48px;
+  margin: auto;
+  padding: 50px;
+  position: relative;
+}
+.traffic3 {
+  width: 75px;
+  height: 75px;
+  background-color: green;
+  border-radius: 50%;
+  top: 60px;
+  right: 52px;
+  margin: auto;
+  padding: 50px;
+  position: relative;
+}

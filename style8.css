@@ -1,0 +1,22 @@
+* {
+  margin: 10px;
+  padding: 0;
+  box-sizing: border-box;
+}
+div {
+  width: 900px;
+  height: 650px;
+  margin: auto;
+}
+.kyb2 {
+  border: 1px solid green;
+  position: absolute;
+}
+.kyb3 {
+  border: 1px solid red;
+  width: 150px;
+  height: 150px;
+  position: relative;
+  top: 200px;
+  right: 120px;
+}

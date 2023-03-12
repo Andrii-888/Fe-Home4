@@ -1,0 +1,28 @@
+* {
+  margin: 5px;
+  padding: 0;
+  box-sizing: border-box;
+}
+.kub {
+  width: 570px;
+  height: 400px;
+  border: 1px solid fuchsia;
+  background-color: fuchsia;
+  margin: auto;
+}
+.kub2 {
+  width: 120px;
+  height: 120px;
+  background-color: wheat;
+  position: relative;
+  left: 50px;
+  top: 40px;
+}
+.kub3 {
+  width: 120px;
+  height: 120px;
+  background-color: wheat;
+  position: relative;
+  left: 380px;
+  top: 100px;
+}
